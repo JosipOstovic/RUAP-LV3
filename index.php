@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Registration Form</title>
+    <title>Registration Form v2</title>
     <style type="text/css">
         body {
             background-color: #fff;
